@@ -1,0 +1,14 @@
+{
+  "name": "hc-sr501.js",
+  "version": "1.0.0",
+  "description": "MOTION DETECTOR (HC-SR501) Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 0"
+  },
+  "keywords": [
+    "CHIRIMEN"
+  ],
+  "author": "",
+  "license": "MIT"
+}
